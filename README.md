@@ -48,5 +48,6 @@ Paste any long paragraph or article — and this tool will generate a concise su
 ```bash
 pip install transformers gradio torch
 
+```
 ![image](https://github.com/user-attachments/assets/6ae03d8c-e232-4eed-9b6a-dc8910cb9f63)
 
